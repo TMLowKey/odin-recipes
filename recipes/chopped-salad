@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Chopped salad</title>
+</head>
+<body>
+    <h1>Chopped salad</h1>
+    <img src="chopped-salad.jpg" alt="chopped salad picture" height="310" width="310">
+    <p>This easy Chopped Salad recipe is a perfect light meal or side dish! Serve it with your favorite pizza, pasta, or classic cookout fare.</p>
+    <ul>
+        <h2>Ingredients</h2>
+        <h3>Lemon Vinaigrette</h3>
+        <li>1/4 cup extra-virgin olive oil</li>
+        <li>1 1/2 tablespoons lemon juice</li>
+        <li>1 tablespoons red wine vinegar</li>
+        <li>1/2 shallot, finely chopped</li>
+        <li>1 garlic clove, finely chopped</li>
+        <li>1 tablespoon dried oregano</li>
+        <li>1/2 teaspoon sea salt</li>
+        <li>freshly ground black pepper</li>
+        <h3>For the salad</h3>
+        <li>1 small head iceberg lettuce</li>
+        <li>1 head radicchio</li>
+        <li>1/2 small red onion, thinly sliced</li>
+        <li>1 pint cherry tomatoes, halved or quartered</li>
+        <li>1 can chickpeas, rinsed and drained</li>
+        <li>4 ounces fresh pearl mozzarella, drained</li>
+        <li>4 ounces provolone cheese, diced</li>
+        <li>5 pepperoncini, stemmed and sliced</li>
+        <li>1 teaspoons oregano, for garnish</li>
+        <li>sea salt and freshly ground black pepper</li>
+    </ul>
+    <ol>
+        <h2>Instructions</h2>
+        <li><strong>Make the dressing.</strong>In a small bowl, whisk together the olive oil, lemon juice, vinegar, shallot, garlic, oregano, salt, and pepper, and set aside.</li>
+        <li><strong>Cut the iceberg lettuce in half through the core,</strong> then cut out the core. Slice the lettuce lengthwise into 1/4-inch strips. Repeat with the radicchio.</li>
+        <li><strong>In a large bowl, combine the lettuce,</strong> radicchio, tomatoes, chickpeas, mozzarella, provolone, and pepperoncini. Drizzle with the dressing and toss gently to coat. Season with salt and pepper and toss again. Sprinkle with extra oregano, and serve.</li>
+    </ol>
+</body>
+</html>
